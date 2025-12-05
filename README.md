@@ -9,5 +9,25 @@ This repository demonstrates how to use GitHub API tools to programmatically cre
 ## Features
 
 - Created using GitHub API
-- Example content
-- Demonstrates basic repository management
+- Example C code with utils library
+- Makefile for building
+
+## Building
+
+To build the project, simply run:
+
+```
+make
+```
+
+To clean build artifacts:
+
+```
+make clean
+```
+
+After building, run the executable with:
+
+```
+./example
+```
